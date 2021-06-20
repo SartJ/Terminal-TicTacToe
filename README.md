@@ -1,19 +1,20 @@
 # Terminal-TicTacToe
 
 ## OBJECTIVE:
--Building a 2 Player TIC TAC TOE game that runs on the TERMINAL/CMD.\
+-Building a 2 Player TIC TAC TOE game that runs on the TERMINAL/CMD. \
 
 ## PLANNING:
--We Take Player names as inputs.\
--We randomly select a player who Starts off the game. (Tossing Phase)\
--tic tac toe board will look like this, basically a 2D List\
+-We Take Player names as inputs. \
+-We randomly select a player who Starts off the game. (Tossing Phase) \
+-tic tac toe board will look like this, basically a 2D List \
 [\
     [-, -, -],\
     [-, -, -],\
     [-, -, -]\
 ]\
 -user_input = 1-9, will denote the Position where user wants to enter His/Her move on the board.\
--Positions Labeled Below: \
+
+-Positions Labeled Below- \
 
 1  2  3\
 4  5  6\
