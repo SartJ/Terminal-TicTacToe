@@ -1,7 +1,7 @@
 # Terminal-TicTacToe
 
 ## OBJECTIVE:
--Building a 2 Player TIC TAC TOE game that runs on the TERMINAL/CMD. \
+-Building a 2 Player TIC TAC TOE game that runs on the TERMINAL/CMD. 
 
 ## PLANNING:
 -We Take Player names as inputs. \
@@ -18,7 +18,7 @@
 
 1  2  3\
 4  5  6\
-7  8  9\
+7  8  9
 
 -If they enter anything other than 1-9: prompt(go again).\
 -Check if the user_input is already taken.\
