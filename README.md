@@ -12,9 +12,9 @@
     [-, -, -],\
     [-, -, -]\
 ]\
--user_input = 1-9, will denote the Position where user wants to enter His/Her move on the board.\
+-user_input = 1-9, will denote the Position where user wants to enter His/Her move on the board.
 
--Positions Labeled Below- \
+-Positions Labeled Below- 
 
 1  2  3\
 4  5  6\
@@ -24,10 +24,10 @@
 -Check if the user_input is already taken.\
 -Add it to the board.\
 -Check if the user won: checking rows, columns and diagonals.\
--Toggle between users upon successful moves.\
+-Toggle between users upon successful moves.
 
 ## FUTURE IMPROVEMENTS:
 (+) Adding GUI to it.\
 (+) Using classes and objects.\
-(+) Adding options to play against an AI.\
+(+) Adding options to play against an AI.
 
